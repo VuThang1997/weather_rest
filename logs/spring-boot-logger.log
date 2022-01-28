@@ -1,0 +1,12 @@
+2022-01-28 10:06:28,167 INFO [C{1.} - logStarting - 55] [main] Starting WeatherRestCloneApplication using Java 11.0.11 on NV462-THANGVH with PID 3024 (D:\repo_code_test\weather_rest_clone\target\classes started by thangvh in D:\repo_code_test\weather_rest_clone)
+2022-01-28 10:06:28,169 INFO [C{1.} - logStartupProfileInfo - 637] [main] No active profile set, falling back to default profiles: default
+2022-01-28 10:06:28,730 INFO [C{1.} - initialize - 108] [main] Tomcat initialized with port(s): 8080 (http)
+2022-01-28 10:06:28,734 INFO [C{1.} - log - 173] [main] Initializing ProtocolHandler ["http-nio-8080"]
+2022-01-28 10:06:28,735 INFO [C{1.} - log - 173] [main] Starting service [Tomcat]
+2022-01-28 10:06:28,735 INFO [C{1.} - log - 173] [main] Starting Servlet engine: [Apache Tomcat/9.0.56]
+2022-01-28 10:06:28,810 INFO [C{1.} - log - 173] [main] Initializing Spring embedded WebApplicationContext
+2022-01-28 10:06:28,810 INFO [C{1.} - prepareWebApplicationContext - 290] [main] Root WebApplicationContext: initialization completed in 601 ms
+2022-01-28 10:06:29,119 INFO [C{1.} - <init> - 51] [main] Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@4e424582, org.springframework.security.web.context.SecurityContextPersistenceFilter@2506e949, org.springframework.security.web.header.HeaderWriterFilter@188a5fc2, org.springframework.security.web.authentication.logout.LogoutFilter@226de93c, com.example.weather_rest_clone.security.rate_limit_filter.ApiRateLimitFilter@58dad04a, com.example.weather_rest_clone.security.jwt_filter.JwtAuthenticationFilter@73e776b7, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@4c531172, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@48581a3b, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@113ee1ce, org.springframework.security.web.session.SessionManagementFilter@1416ff46, org.springframework.security.web.access.ExceptionTranslationFilter@3d9f0a5, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@5d352de0]
+2022-01-28 10:06:29,136 INFO [C{1.} - log - 173] [main] Starting ProtocolHandler ["http-nio-8080"]
+2022-01-28 10:06:29,147 INFO [C{1.} - start - 220] [main] Tomcat started on port(s): 8080 (http) with context path ''
+2022-01-28 10:06:29,154 INFO [C{1.} - logStarted - 61] [main] Started WeatherRestCloneApplication in 1.301 seconds (JVM running for 1.895)
